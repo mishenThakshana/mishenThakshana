@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mishenthak@outlook.com**
 
-- ⚡ Fun fact **I use Chat GPT**
+- ⚡ Fun fact **I'm using Chat GPT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
