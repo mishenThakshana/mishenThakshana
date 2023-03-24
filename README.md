@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishenthakshana&label=Profile%20views&color=0e75b6&style=flat" alt="mishenthakshana" /> </p>
 
 
-- 🌱 I’m currently learning **React Native & Express**
+- 🌱 I'm a **Full Stack Developer**
 
-- 💬 Ask me about **React Native, Express**
+- 💬 Ask me about **React Native, Express, Laravel**
 
 - 📫 How to reach me **mishenthak@outlook.com**
 
